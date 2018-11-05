@@ -1,0 +1,8 @@
+.DS_Store
+un-dossier
+/un-dossier-a-la-racine
+/un-dossier/un-sous-dossier
+*.txt
+/un-dossier/**
+/un-dossier/*.txt
+/un-dossier/**.txt
